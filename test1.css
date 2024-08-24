@@ -1,0 +1,23 @@
+h3{
+  color: #458;
+}
+body{
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+  
+}
+.container1{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  margin-top: 10px;
+}
+.left-img, .right-img {
+  flex: 1 ;
+    max-width: 48%;  
+    height: auto; 
+  box-sizing: border-box;
+}
