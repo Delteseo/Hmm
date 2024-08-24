@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+  background-color: black;
+}
+
+h2 {
+    color: #374;
+    font-size: 3em;
+    text-align: center; /* Centers the text horizontally */
+    margin-top: 20px;  
+}
+
+hr {border: none;
+  background-color: #222;
+  height: 2.8px;
+  width: 100%;
+  margin-top: -44px;
+  
+}
+p {
+    color: #333;
+    font-size: 20px;
+    margin: 20px;
+}
+
+  a{ 
+    color: #838;
+    text-decoration: none;
+  }
