@@ -1,6 +1,6 @@
 body {
     margin: 0;
-  background-color: black;
+  background-color: ;
 }
 
 h2 {
@@ -10,20 +10,42 @@ h2 {
     margin-top: 20px;  
 }
 
-hr {border: none;
+.hr1{
+  border: none;
   background-color: #222;
   height: 2.8px;
   width: 100%;
   margin-top: -44px;
-  
 }
-p {
-    color: #333;
+
+.p1 {
+    color: #335;
     font-size: 20px;
-    margin: 20px;
+    margin: 5px;
 }
 
   a{ 
     color: #838;
     text-decoration: none;
   }
+
+.hr2 {
+    border: none;
+   background-color: #333;
+  height: 2px;
+  width: 100%;
+}  
+.h41 {
+         margin-left: 5px;
+        margin-top: -1px;
+          text-decoration: underline;
+          text-decoration-color: red;
+          text-decoration-thickness: 2px;
+          
+     }
+     .myimg {
+       position: absolute;
+      top: 170px;
+       right: 5px;
+  
+     }
