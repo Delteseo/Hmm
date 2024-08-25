@@ -4,4 +4,15 @@ h3{
 body{
   background-color: #222;
 }
-
+.memes {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* This creates 2 equal-width columns */
+    gap: 5px; /* This adds space between the images */
+}
+.memes img {
+   
+    max-width: 170px;
+    max-height: 1000px;
+    object-fit: contain;
+    display: block;
+}
