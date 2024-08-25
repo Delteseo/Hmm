@@ -10,9 +10,10 @@ body{
     gap: 5px; /* This adds space between the images */
 }
 .memes img {
-   
-    max-width: 170px;
-    max-height: 1000px;
+    width: 100%;
     object-fit: contain;
     display: block;
+}
+.heading{
+      font-size: 5vw;
 }
