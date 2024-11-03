@@ -1,8 +1,7 @@
 body {
   margin: 0;
-  
-  
 }
+
 h2 {
     color: green;
     font-size: 20vw;
@@ -34,6 +33,7 @@ h2 {
   height: 0.8vw;
   width: 100%;
 }  
+
 .h41 {
   margin-left: 5px;
   margin-top: -1px;
@@ -43,6 +43,7 @@ h2 {
       text-decoration-color: red;
           text-decoration-thickness: 0.4vw;
 }
+
 .gie {
   width: 45%;
   position: absolute;
@@ -51,12 +52,19 @@ h2 {
   margin-top: 70vw;
   margin-right: 2vw;
 }
+
 .myimg {
   width: 100%;
   height: auto;
   border-radius: 10px;
-border: 2px solid gray;
+  border: 2px solid gray;
 }
+
 .ho {
-	margin: 5px;
+  margin: 5px;
+  font-size: 4vw;
 }
+.aboutme{
+  
+}
+
