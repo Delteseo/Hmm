@@ -1,0 +1,21 @@
+html {
+   font-size: clamp(16px 5vw 32px);
+}
+
+body {
+   background-color: white;
+   line-height: 160%;
+   margin-left: 25px;
+}
+
+h1 {
+   font-size: 2rem;
+}
+
+h3 {
+   font-size: 1.4rem;
+}
+
+p {
+   font-size: 1.3rem;
+}
